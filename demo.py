@@ -1,5 +1,8 @@
 from getaway.gui import *
 
+#from models import CNN
+#from speak import Text_to_Speech
+import cv2
 
 class Demo(object):
 
